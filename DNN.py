@@ -1,3 +1,4 @@
+#run it on google colab, because it uses google drive to save files
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
